@@ -12,7 +12,7 @@ hide_title: true
     <div class="event-card">
         <h3>📅 Event Basics</h3>
         <p><strong>Q: When and where is the hackathon?</strong><br>
-        A: Targeting a Saturday in late September or early October 2025 (final date TBA), at Platform Calgary (East Annex). The event runs for approximately 6 hours including presentations and networking.</p>
+        A: Targeting mid October 2025 (final date TBA), at Platform Calgary (East Annex). The event runs for approximately 6 hours including presentations and networking.</p>
 
         <p><strong>Q: How much does it cost to participate?</strong><br>
         A: The event is completely free! Thanks to our generous sponsors, we can provide food, drinks, prizes, and all the resources you need.</p>

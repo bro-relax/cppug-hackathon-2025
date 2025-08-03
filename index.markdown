@@ -21,7 +21,7 @@ hero:
         <div data-aos="fade-right" data-aos-delay="200">
             <h3 style="color: var(--primary-color); margin-bottom: 1.5rem;">📅 Event Details</h3>
             <div style="background: var(--background-light); padding: 1.5rem; border-radius: var(--border-radius); border-left: 4px solid var(--accent-color);">
-                <p style="margin-bottom: 0.75rem;"><strong>📅 Date:</strong> Friday, October 18, 2025 (TBD)</p>
+                <p style="margin-bottom: 0.75rem;"><strong>📅 Date:</strong> Saturday, October 18, 2025 (TBD)</p>
                 <p style="margin-bottom: 0.75rem;"><strong>📍 Venue:</strong> Platform Calgary - East Annex (TBD)</p>
                 <p style="margin-bottom: 0.75rem;"><strong>👥 Capacity:</strong> Limited to 30 participants (7-8 teams)</p>
                 <p style="margin: 0;"><strong>🎥 Special Feature:</strong> Portions livestreamed to the community</p>
