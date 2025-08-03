@@ -44,7 +44,7 @@ hide_title: true
             <li><strong>Data Collection:</strong> Surveys, research data, or field observations</li>
             <li><strong>Resource Booking:</strong> Equipment rental, room reservations, or vehicle check-out</li>
         </ul>
-        <p><em>💡 Pro tip: Test your app on mobile devices early and often—mobile UX is crucial!</em></p>
+        <p><em>💡 Pro tip: Test your app on mobile devices early and often. Mobile UX is crucial!</em></p>
     </div>
 
     <div class="event-card">
@@ -68,7 +68,7 @@ hide_title: true
             <li><strong>Predictive Analytics:</strong> Simple forecasting models or trend analysis</li>
             <li><strong>Intelligent Automation:</strong> Smart routing, decision trees, or pattern recognition</li>
         </ul>
-        <p><em>💡 Pro tip: AI Builder has pre-built models—start with those before building custom models.</em></p>
+        <p><em>💡 Pro tip: AI Builder has pre-built models. Start with those before building custom models.</em></p>
     </div>
 
     <div class="event-card">

@@ -296,6 +296,42 @@ hero:
     </div>
 </section>
 
+<section id="volunteer" class="site-section" data-aos="fade-up">
+    <h2>🤝 Volunteer with Us</h2>
+    <p>Help make the CPPUG Hackathon Challenge an amazing experience for everyone! We're looking for passionate community members to join our volunteer team.</p>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
+        <div data-aos="fade-right" data-aos-delay="200">
+            <h3 style="color: var(--primary-color); margin-bottom: 1.5rem;">🌟 Why Volunteer?</h3>
+            <ul style="list-style: none; padding: 0; margin: 0;">
+                <li style="margin-bottom: 1rem; padding-left: 0;">🎯 <strong>Make an Impact:</strong> Help create an incredible experience for participants</li>
+                <li style="margin-bottom: 1rem; padding-left: 0;">🤝 <strong>Network:</strong> Connect with community leaders and fellow enthusiasts</li>
+                <li style="margin-bottom: 1rem; padding-left: 0;">📚 <strong>Learn:</strong> Gain behind-the-scenes event management experience</li>
+                <li style="margin-bottom: 1rem; padding-left: 0;">🏆 <strong>Recognition:</strong> Be acknowledged as a key community contributor</li>
+                <li style="margin: 0; padding-left: 0;">💼 <strong>Give Back:</strong> Support Calgary's growing tech community</li>
+            </ul>
+        </div>
+
+        <div data-aos="fade-left" data-aos-delay="400">
+            <h3 style="color: var(--primary-color); margin-bottom: 1.5rem;">📋 Volunteer Opportunities</h3>
+            <div style="background: var(--background-light); padding: 1.5rem; border-radius: var(--border-radius); border-left: 4px solid var(--accent-color);">
+                <p style="margin-bottom: 0.75rem;"><strong>🎪 Event Setup:</strong> Help prepare the venue and materials</p>
+                <p style="margin-bottom: 0.75rem;"><strong>👋 Registration & Welcome:</strong> Greet participants and handle check-in</p>
+                <p style="margin-bottom: 0.75rem;"><strong>🍕 Food & Logistics:</strong> Coordinate meals and refreshments</p>
+                <p style="margin-bottom: 0.75rem;"><strong>💡 Technical Support:</strong> Assist teams with platform questions</p>
+                <p style="margin-bottom: 0.75rem;"><strong>📸 Documentation:</strong> Capture event highlights for our community</p>
+                <p style="margin: 0;"><strong>🏆 Awards & Closing:</strong> Help with judging logistics and ceremony</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="cta" style="text-align: center; margin-top: 3rem;">
+        <a href="https://forms.office.com/r/CSB1VHXqjx" target="_blank" class="cta-button">
+            <i class="fas fa-hand-heart"></i> Sign Up to Volunteer
+        </a>
+    </div>
+</section>
+
 <section id="contact" class="site-section" data-aos="fade-up">
     <h2>📞 Questions & Support</h2>
     <p>Still have questions? We're here to help!</p>

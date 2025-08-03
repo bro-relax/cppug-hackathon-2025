@@ -42,7 +42,7 @@ hide_title: true
         A: Power Platform is designed to be accessible! Whether you're a complete beginner or an experienced developer, there's a place for you. We'll have mentors available to help throughout the event.</p>
 
         <p><strong>Q: Do I need my own Power Platform license?</strong><br>
-        A: No! Instructions for setting up a dev tenant will be provided pre-event. These give you access to all the tools you'll need. Participants **must** have access to necessary software (web browser) and Power Platform developer tenants/licenses *before* the event.</p>
+        A: No! A user account and tenant will be provided to you during the event. These will give you access to all the tools you'll need.</p>
 
         <p><strong>Q: What if I've never used Power Platform before?</strong><br>
         A: Perfect! We love introducing new people to these amazing tools. Consider attending our pre-event workshop or reviewing our getting-started resources.</p>
@@ -95,6 +95,7 @@ hide_title: true
             <li><strong>Closing Ceremony:</strong> 20 minutes</li>
             <li><strong>Presentation Order:</strong> Teams may volunteer for preferred slots; cutoff at end of lunch break, then random assignment</li>
         </ul>
+        <p><em>Note: Teams can continue building their projects while presentations are ongoing, ensuring maximum use of the event time.</em></p>
     </div>
 
     <div class="event-card">
@@ -107,64 +108,6 @@ hide_title: true
             <li><strong>Data Sources:</strong> Use sample data, SharePoint lists, Dataverse, or public APIs</li>
             <li><strong>External Services:</strong> Third-party connectors are allowed if they're available in Power Platform</li>
             <li><strong>Goal:</strong> Build a functional Minimum Viable Product (MVP) demonstrating the core concept within the 6-hour event timeframe</li>
-        </ul>
-    </div>
-
-    <div class="event-card">
-        <h3>💡 Suggested Project Options</h3>
-        <p>Teams should choose one of the following project options, focusing on core Power Apps and Power Automate functionality to build a functional MVP:</p>
-        <ul>
-            <li><strong>Inventory Management System:</strong> Build a Power App for tracking items (add/edit/view), potentially using barcode scanning, and Power Automate for simple low-stock email alerts</li>
-            <li><strong>Time Off Management:</strong> Create a Power App for submitting requests (submitter, dates, reason), use Power Automate for a single-level approval email</li>
-            <li><strong>Inspection System:</strong> Develop a Power App for on-site inspections capturing text notes and maybe one photo, generating a simple report emailed via Power Automate</li>
-            <li><strong>Room/Equipment Booking and Sign-Out:</strong> Build a Power App for viewing availability and booking slots, potentially using Power Automate for a confirmation email</li>
-            <li><strong>Employee Kudos/Recognition App:</strong> Create a Power App for submitting kudos, with Power Automate flows for email notifications or posting to a Teams channel</li>
-        </ul>
-        <p><strong>Note:</strong> Focus on building a functional Minimum Viable Product (MVP) rather than a fully polished solution. The goal is to demonstrate the core concept and potential in the limited 6-hour timeframe.</p>
-    </div>
-
-    <div class="event-card">
-        <h3>📊 Judging Criteria (Detailed)</h3>
-        <p>Projects are scored from 1 (Needs Improvement) to 5 (Excellent) in each category, then multiplied by the weight factor:</p>
-        
-        <p><strong>1. Functionality (Weight: 35%)</strong></p>
-        <p><em>Does the solution meet core requirements and work as demonstrated? Is it stable?</em></p>
-        <ul>
-            <li><strong>Score 1:</strong> Major core features missing or non-functional. Frequent crashes/errors.</li>
-            <li><strong>Score 2:</strong> Some core features work, but significant bugs or gaps remain.</li>
-            <li><strong>Score 3:</strong> Most core features work as intended with minor bugs. Meets basic requirements.</li>
-            <li><strong>Score 4:</strong> Solution is functional, stable, and meets all core requirements well.</li>
-            <li><strong>Score 5:</strong> Exceeds core requirements, very stable, handles edge cases demonstrated.</li>
-        </ul>
-
-        <p><strong>2. Effective Use of Power Platform (Weight: 40%)</strong></p>
-        <p><em>How well did the team leverage relevant Power Platform components? Was the choice of tools appropriate?</em></p>
-        <ul>
-            <li><strong>Score 1:</strong> Minimal or inappropriate use of Power Platform tools for the problem.</li>
-            <li><strong>Score 2:</strong> Used basic features but didn't leverage key platform strengths effectively.</li>
-            <li><strong>Score 3:</strong> Good use of 1-2 core components (e.g., basic App + Flow). Appropriate tool choice.</li>
-            <li><strong>Score 4:</strong> Effectively used multiple relevant components (e.g., App, Flow, Dataverse/SP List, Connector). Smart choices.</li>
-            <li><strong>Score 5:</strong> Excellent integration of multiple components, showcasing platform potential (e.g., using AI Builder, Power Pages, advanced Flow techniques, Copilot Studio where relevant).</li>
-        </ul>
-
-        <p><strong>3. User Experience (UX/UI) (Weight: 15%)</strong></p>
-        <p><em>Is the solution intuitive, easy to navigate, and visually appealing within the Power Platform context?</em></p>
-        <ul>
-            <li><strong>Score 1:</strong> Confusing, difficult to use, visually unappealing.</li>
-            <li><strong>Score 2:</strong> Usable, but navigation is awkward or UI is very basic/cluttered.</li>
-            <li><strong>Score 3:</strong> Reasonably intuitive and clean interface. Standard controls used effectively.</li>
-            <li><strong>Score 4:</strong> Easy to use, logical flow, good visual design for the platform.</li>
-            <li><strong>Score 5:</strong> Highly intuitive, polished UI, thoughtful user flow, exceeds typical expectations.</li>
-        </ul>
-
-        <p><strong>4. Presentation Quality (Weight: 10%)</strong></p>
-        <p><em>How clearly and effectively did the team communicate their solution, the problem it solves, and its value during the presentation and Q&A?</em></p>
-        <ul>
-            <li><strong>Score 1:</strong> Unclear, disorganized presentation. Unable to answer questions effectively. Demo failed.</li>
-            <li><strong>Score 2:</strong> Presentation lacked clarity or structure. Difficulty answering questions. Major demo issues.</li>
-            <li><strong>Score 3:</strong> Clear presentation, explained the basics. Answered questions adequately. Minor demo issues.</li>
-            <li><strong>Score 4:</strong> Well-structured, engaging presentation. Clearly explained problem/solution/value. Handled Q&A well. Smooth demo.</li>
-            <li><strong>Score 5:</strong> Excellent, compelling presentation. Articulate and engaging. Handled Q&A expertly. Flawless demo.</li>
         </ul>
     </div>
 
@@ -183,7 +126,7 @@ hide_title: true
     <div class="event-card">
         <h3>📺 Community & Promotion</h3>
         <ul>
-            <li>This event brings together Calgary's growing Power Platform community—from beginners to experienced developers—to build real solutions that could help local businesses</li>
+            <li>This event brings together Calgary's growing Power Platform community to build real solutions that could help local businesses</li>
             <li>Portions of the event will be livestreamed to help promote the Power Platform community and showcase local innovation</li>
             <li>Event highlights will be shared afterward to acknowledge our venue partner Platform Calgary and showcase community achievements</li>
             <li>Foster learning, encourage collaboration, showcase Power Platform capabilities, and have fun!</li>
